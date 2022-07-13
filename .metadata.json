@@ -4,7 +4,23 @@
     "oncran": true
   },
   {
+    "package": "R.temis",
+    "oncran": true
+  },
+  {
     "package": "R2HTML",
+    "oncran": true
+  },
+  {
+    "package": "SnowballC",
+    "oncran": true
+  },
+  {
+    "package": "tm.plugin.factiva",
+    "oncran": true
+  },
+  {
+    "package": "tm.plugin.lexisnexis",
     "oncran": true
   }
 ]

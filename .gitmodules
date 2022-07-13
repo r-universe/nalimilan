@@ -8,8 +8,32 @@
 	url = https://github.com/nalimilan/logmult
 	shallow = true
 	registered = true
+[submodule "R.temis"]
+	path = R.temis
+	url = https://github.com/nalimilan/r.temis
+	shallow = true
+	subdir = R.temis
+	registered = true
 [submodule "R2HTML"]
 	path = R2HTML
 	url = https://github.com/nalimilan/r2html
 	shallow = true
+	registered = true
+[submodule "SnowballC"]
+	path = SnowballC
+	url = https://github.com/nalimilan/r.temis
+	shallow = true
+	subdir = SnowballC
+	registered = true
+[submodule "tm.plugin.factiva"]
+	path = tm.plugin.factiva
+	url = https://github.com/nalimilan/r.temis
+	shallow = true
+	subdir = tm.plugin.factiva
+	registered = true
+[submodule "tm.plugin.lexisnexis"]
+	path = tm.plugin.lexisnexis
+	url = https://github.com/nalimilan/r.temis
+	shallow = true
+	subdir = tm.plugin.lexisnexis
 	registered = true
