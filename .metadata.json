@@ -1,6 +1,6 @@
 [
   {
-    "package": "tm.plugin.lexisnexis",
+    "package": "logmult",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "logmult",
+    "package": "R2HTML",
     "oncran": true
   },
   {
@@ -20,7 +20,7 @@
     "oncran": true
   },
   {
-    "package": "R2HTML",
+    "package": "tm.plugin.lexisnexis",
     "oncran": true
   }
 ]
