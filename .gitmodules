@@ -23,6 +23,10 @@
 	path = tm.plugin.alceste
 	url = https://github.com/nalimilan/r.temis
 	subdir = tm.plugin.alceste
+[submodule "tm.plugin.europresse"]
+	path = tm.plugin.europresse
+	url = https://github.com/nalimilan/r.temis
+	subdir = tm.plugin.europresse
 [submodule "tm.plugin.factiva"]
 	path = tm.plugin.factiva
 	url = https://github.com/nalimilan/r.temis
