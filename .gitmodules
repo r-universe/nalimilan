@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "R.temis"]
+	path = R.temis
+	url = https://github.com/nalimilan/r.temis
+	subdir = R.temis
 [submodule "R2HTML"]
 	path = R2HTML
 	url = https://github.com/nalimilan/r2html
